@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A46FC33F-3698-48A9-B91A-7523812A0F87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PTMusicApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>87BA27B05DD0035DE1CF82075DE11430BF734DCF</key>
+		<string>https://bitbucket.org/mendy-jli/jli-app-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PTMusicApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>87BA27B05DD0035DE1CF82075DE11430BF734DCF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/mendy-jli/jli-app-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>87BA27B05DD0035DE1CF82075DE11430BF734DCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87BA27B05DD0035DE1CF82075DE11430BF734DCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jli-app-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
